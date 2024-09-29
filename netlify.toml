@@ -1,4 +1,0 @@
-[build]
-  base = ""
-  publish = "dist" # or "build" based on your setup
-  command = "npm install && npm run dev"
